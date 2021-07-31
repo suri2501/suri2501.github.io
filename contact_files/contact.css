@@ -1,0 +1,13 @@
+
+.panel{ background:#fff; width:1000px; height:1000px; height:auto; border:0px; position:fixed; }
+
+#contact-form{margin-top:10px;width:210px; border:0px;}
+	form p{clear:both;margin-bottom:10px;}
+	input{font-family:Arial;padding:8px 0 8px 5px;margin:0 0 10px 0;width:420px;background:#fff;border:1px solid #dbdbdb;color:#c0c0c0;font-size:13px;display:block;-moz-border-radius:3px; -webkit-border-radius:3px; border-radius:3px}
+	textarea{font-family:Arial;padding:8px 0 8px 5px;margin:0 0 10px 0;width:420px;background:#fff;border:1px solid #dbdbdb;color:#999;font-size:13px;display:block;height:45px;resize:none;-moz-border-radius:3px; -webkit-border-radius:3px; border-radius:3px}
+	.btn{float:left;width:auto;padding:4px 20px;background:#cfcfcf;color:#858585;text-shadow:1px 1px 1px #fff;border:none;text-transform:uppercase;font-weight:bold;font-size:10px;cursor:pointer}
+
+
+#formstatus{clear:both;font-weight:700; font-size:12px; line-height:10px; }
+	.formstatuserror{color:#FF0000;}
+	.formstatusok{color:#0C3;}
